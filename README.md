@@ -1,4 +1,4 @@
 # Deepanshu
 This is my first repositery
 <br>
-Author-"Deepanshu"
+Author-"Deepanshu(Chitkara Unversity)"
